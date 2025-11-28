@@ -2,31 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanay Garde</title>
-    <link>http://localhost:34743/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tanay Garde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2023 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:34743/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Oct 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yournal Klub</title>
+      <link>http://localhost:1313/blog/2025-10-05-journal/</link>
+      <pubDate>Sun, 05 Oct 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-10-05-journal/</guid>
+      <description>Please Read This At The Very Least (Prologue) I figured I should document what I decided to do in my tenure as the representative of the club. This was written a few months after I passed the baton to the next secretary, but my inflated ego seems to believe that it would be useful for future office members.&#xA;I think I will write about the bold and outlandish takes before I explain my reasoning for them.</description>
+    </item>
+    <item>
+      <title>Never Meant</title>
+      <link>http://localhost:1313/blog/2025-05-15-ninth/</link>
+      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-05-15-ninth/</guid>
+      <description>I haven’t really written here this semester.&#xA;I’ll miss college so much. I’ll miss wing so much. Life is going to be different, and I will never have the happiness of being with such beautiful people ever again.&#xA;I will never walk by Rohan&amp;rsquo;s room and watch him play Valorant all day again. Archith handed me his LED strip before leaving. I have the same strip. We have the same remote.</description>
+    </item>
+    <item>
+      <title>Ending, or the Beginning of One</title>
+      <link>http://localhost:1313/blog/2024-12-13-eighth/</link>
+      <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-12-13-eighth/</guid>
+      <description>It has been a while. I deleted an entry from this blog, and the simple reason for that is that I do not like being hateful. I am no better sometimes than the people I dislike, and I hope that I can be better. Anyway, back to the present. I should really stop causing myself a week of misery during finals and actually study. 5th semester, and I am still not coming to terms with my own mediocrity.</description>
+    </item>
+    <item>
+      <title>Same Old</title>
+      <link>http://localhost:1313/blog/2024-07-25-seventh/</link>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-07-25-seventh/</guid>
+      <description>Coming back to campus and coming to terms with the person I need to be at campus is hard. It is easy to forget commitments and forget calls and forget loved ones. I hope I’m there for my people when I need to be. I just hope it turns out okay. I need to write more, but I think I’ll go and have cake and something else before hitting the sack for tonight.</description>
+    </item>
+    <item>
+      <title>Ending Again</title>
+      <link>http://localhost:1313/blog/2024-05-03-sixth/</link>
+      <pubDate>Fri, 03 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-05-03-sixth/</guid>
+      <description>It&amp;rsquo;s been a long time since I wrote here. Months actually. I meant to write more all through the semester, and kept forgetting. A lot has transpired, mostly for the good. Life is good, life is fun. I love my friends and I love the people around me so much. I genuinely think that this college has been such a nice phase of my life. I might as well call 2-2 the best semester ever.</description>
+    </item>
+    <item>
+      <title>Two Two</title>
+      <link>http://localhost:1313/blog/2024-01-08-fifth/</link>
+      <pubDate>Mon, 08 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-01-08-fifth/</guid>
+      <description>College starts again tomorrow. Sigh. I think this time around, I’ll try improving myself. We all say that every time something new starts, in hope of some bearable constant to cling to. I’ve realized that wanting a constant now is futile as there is none. You just have to keep going, there is no rest. You just go and go and go until you cannot anymore and pray that you end up in a good place with the ones you love.</description>
+    </item>
+    <item>
+      <title>Latter Half</title>
+      <link>http://localhost:1313/blog/2023-12-03-fourth/</link>
+      <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-12-03-fourth/</guid>
+      <description>Going home for Dussehra was weird. I really wanted to meet some people, but I ended up staying home all day and just pandering to my family using the excuse of post midsem tiredness as a break. I did give cruX re-inductions with no amount of seriousness this time around.&#xA;It might be the sleepiest I’ve been, these weeks after ATMOS. Post-fest fatigue hits hard, but it hits harder when Diwali is upcoming.</description>
+    </item>
     <item>
       <title>Outing</title>
-      <link>http://localhost:34743/blog/2023-09-07-third/</link>
+      <link>http://localhost:1313/blog/2023-09-07-third/</link>
       <pubDate>Thu, 07 Sep 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:34743/blog/2023-09-07-third/</guid>
+      <guid>http://localhost:1313/blog/2023-09-07-third/</guid>
       <description>I think I decided that I’ll just not write for last week, but here I am, typing this out. This week has almost ended, and I have nothing to write about. Maybe I hate the past week the most.&#xA;We visited Mudit in Yashoda though, and it might have been the best outing ever. It was impromptu, for a mildly serious reason and we had the fun city life without actually living in a city.</description>
     </item>
     <item>
       <title>Second (Year)</title>
-      <link>http://localhost:34743/blog/2023-08-28-second/</link>
+      <link>http://localhost:1313/blog/2023-08-28-second/</link>
       <pubDate>Mon, 28 Aug 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:34743/blog/2023-08-28-second/</guid>
+      <guid>http://localhost:1313/blog/2023-08-28-second/</guid>
       <description>I should mention that as I write this, I’m missing today’s EM Lecture. About last week. We just discussed how it seems like 1-2 never ended. I sort of get why college gives a two month break after every year, and the effects are showing. I don’t have any aversion to the courses I have this semester, yet there’s this.&#xA;There is this lingering sense of tiredness which carried over from last semester.</description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:34743/blog/2023-08-20-first/</link>
+      <link>http://localhost:1313/blog/2023-08-20-first/</link>
       <pubDate>Sun, 20 Aug 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:34743/blog/2023-08-20-first/</guid>
+      <guid>http://localhost:1313/blog/2023-08-20-first/</guid>
       <description>This blog is probably going to be a culmination of everything that has transpired during my first 10 days on campus, let’s call it my first week on campus in my second year. I’ll try doing this every week. The semester has barely begun and certain events have transpired. We spent full nights in rooms crying and coping about SI, academics, life in general. There was a lot of stuff said, a lot of stuff I do not remember, but we move on.</description>
     </item>
   </channel>

@@ -26,7 +26,7 @@ theme = "hello-friend-ng"
 [params.Logo]
 	logoMark = ">"
 	logoText = "@"
-	LogoHomeLink = "/"
+	LogoHomeLink = "/personal-site/"
 	logoCursorDisabled = false
 
 	# Cursor color for the logo cursor (supports color names or hex, e.g. "yellow" or "#FFD400")
