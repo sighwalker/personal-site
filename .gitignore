@@ -1,0 +1,31 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js dependencies
+node_modules/
+
+# Backup files
+*.bak
+*.old
+
+# Hugo cache
+data/
+
+# Ignore any other sensitive or unnecessary files
+.env
+secrets.toml

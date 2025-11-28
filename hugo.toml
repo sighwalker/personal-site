@@ -46,3 +46,8 @@ theme = "hello-friend-ng"
   name = "Resume"
   url = "/resume/"
   weight = 30
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
