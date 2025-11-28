@@ -1,0 +1,48 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Tanay Garde"
+theme = "hello-friend-ng"
+
+[params]
+
+	homeSubtitle = "I like to pretend that I know what's going on."
+
+	[[params.social]]
+		name = "twitter"
+		url  = "https://x.com/alkersighw"
+
+	[[params.social]]
+		name = "github"
+		url  = "https://github.com/sighwalker"
+
+	[[params.social]]
+		name = "linkedin"
+		url  = "https://www.linkedin.com/in/tanay-garde"
+
+	[[params.social]]
+		name = "email"
+		url  = "tanaygarde@gmail.com"
+
+[params.Logo]
+	logoMark = ">"
+	logoText = "@"
+	LogoHomeLink = "/"
+	logoCursorDisabled = false
+
+	# Cursor color for the logo cursor (supports color names or hex, e.g. "yellow" or "#FFD400")
+	logoCursorColor = "#4CC8E4" 
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 30

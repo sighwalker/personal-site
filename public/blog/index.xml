@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tanay Garde</title>
+    <link>http://localhost:34743/blog/</link>
+    <description>Recent content in Blogs on Tanay Garde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2023 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:34743/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outing</title>
+      <link>http://localhost:34743/blog/2023-09-07-third/</link>
+      <pubDate>Thu, 07 Sep 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:34743/blog/2023-09-07-third/</guid>
+      <description>I think I decided that I’ll just not write for last week, but here I am, typing this out. This week has almost ended, and I have nothing to write about. Maybe I hate the past week the most.&#xA;We visited Mudit in Yashoda though, and it might have been the best outing ever. It was impromptu, for a mildly serious reason and we had the fun city life without actually living in a city.</description>
+    </item>
+    <item>
+      <title>Second (Year)</title>
+      <link>http://localhost:34743/blog/2023-08-28-second/</link>
+      <pubDate>Mon, 28 Aug 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:34743/blog/2023-08-28-second/</guid>
+      <description>I should mention that as I write this, I’m missing today’s EM Lecture. About last week. We just discussed how it seems like 1-2 never ended. I sort of get why college gives a two month break after every year, and the effects are showing. I don’t have any aversion to the courses I have this semester, yet there’s this.&#xA;There is this lingering sense of tiredness which carried over from last semester.</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:34743/blog/2023-08-20-first/</link>
+      <pubDate>Sun, 20 Aug 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:34743/blog/2023-08-20-first/</guid>
+      <description>This blog is probably going to be a culmination of everything that has transpired during my first 10 days on campus, let’s call it my first week on campus in my second year. I’ll try doing this every week. The semester has barely begun and certain events have transpired. We spent full nights in rooms crying and coping about SI, academics, life in general. There was a lot of stuff said, a lot of stuff I do not remember, but we move on.</description>
+    </item>
+  </channel>
+</rss>

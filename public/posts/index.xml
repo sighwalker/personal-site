@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Tanay Garde</title>
+        <link>http://localhost:35261/posts/</link>
+        <description>Recent content in Posts on Tanay Garde</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 01 Nov 2025 10:00:00 +0000</lastBuildDate>
+        <atom:link href="http://localhost:35261/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>http://localhost:35261/posts/2025-11-01-hello-world/</link>
+            <pubDate>Sat, 01 Nov 2025 10:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:35261/posts/2025-11-01-hello-world/</guid>
+            <description>My first sample post for this site.</description>
+            <content type="html"><![CDATA[<p>Welcome to my blog! This is a sample &ldquo;Hello World&rdquo; post to show how posts will look on the site. I&rsquo;ll add more content here later.</p>
+<ul>
+<li>This site uses the <code>hello-friend-ng</code> theme.</li>
+<li>Posts live under <code>content/posts/</code>.</li>
+</ul>
+<p>Thanks for reading — edit this post to replace it with your own content.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My Projects</title>
+            <link>http://localhost:35261/posts/2025-10-15-my-projects/</link>
+            <pubDate>Wed, 15 Oct 2025 09:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:35261/posts/2025-10-15-my-projects/</guid>
+            <description>Short tour of projects I&amp;rsquo;m working on.</description>
+            <content type="html"><![CDATA[<p>Here are a few projects I&rsquo;m tinkering with:</p>
+<ol>
+<li>A personal site built with Hugo and <code>hello-friend-ng</code>.</li>
+<li>Small scripts and experiments in Python and JavaScript.</li>
+</ol>
+<p>I&rsquo;ll flesh these out in later posts with links and screenshots.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Thoughts on Coding</title>
+            <link>http://localhost:35261/posts/2024-06-01-thoughts-on-coding/</link>
+            <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:35261/posts/2024-06-01-thoughts-on-coding/</guid>
+            <description>Some short reflections on programming.</description>
+            <content type="html"><![CDATA[<p>Coding is often as much about reading as it is about writing. I jot down small thoughts here as examples for the theme.</p>
+<ul>
+<li>Keep things small and testable.</li>
+<li>Prefer readability over cleverness.</li>
+</ul>
+<p>This is a placeholder post — replace it with your real content.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
