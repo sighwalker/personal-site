@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://sighwalker.github.io/personal-site/"
 languageCode = "en-us"
 title = "Tanay Garde"
 theme = "hello-friend-ng"
@@ -21,7 +21,7 @@ theme = "hello-friend-ng"
 
 	[[params.social]]
 		name = "email"
-		url  = "tanaygarde@gmail.com"
+		url  = "mailto:tanaygarde@gmail.com"
 
 [params.Logo]
 	logoMark = ">"
